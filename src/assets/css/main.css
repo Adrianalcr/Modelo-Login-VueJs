@@ -119,7 +119,7 @@ label {
 }
 .footer {
   background: #000;
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 0 auto;
   padding: 15px;
